@@ -1,0 +1,892 @@
+2024-05-27 23:27:59.791 +03:00 [INF] Application is starting!
+2024-05-27 23:27:59.986 +03:00 [FTL] Unhandled exception!
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog\Program.cs:line 117
+2024-05-27 23:28:11.418 +03:00 [INF] Application is starting!
+2024-05-27 23:28:11.610 +03:00 [FTL] Unhandled exception!
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog\Program.cs:line 117
+2024-05-27 23:30:27.561 +03:00 [INF] Application is starting!
+2024-05-27 23:30:27.736 +03:00 [FTL] Unhandled exception!
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog\Program.cs:line 117
+2024-05-27 23:31:22.251 +03:00 [INF] Application is starting!
+2024-05-27 23:31:22.401 +03:00 [FTL] Unhandled exception!
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog\Program.cs:line 117
+2024-05-27 23:31:30.369 +03:00 [INF] Application is starting!
+2024-05-27 23:31:30.509 +03:00 [FTL] Unhandled exception!
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog\Program.cs:line 117
+2024-05-27 23:32:24.098 +03:00 [INF] Application is starting!
+2024-05-27 23:32:25.306 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider"]
+2024-05-27 23:32:25.441 +03:00 [DBG] Hosting starting
+2024-05-27 23:32:25.505 +03:00 [INF] User profile is available. Using 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-27 23:32:25.520 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-a64e94d9-8dba-40c7-9233-b696d8ec9983.xml'.
+2024-05-27 23:32:25.534 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-fcc46d5d-2553-4860-a9a2-6b64e1b94db3.xml'.
+2024-05-27 23:32:25.547 +03:00 [DBG] Found key {a64e94d9-8dba-40c7-9233-b696d8ec9983}.
+2024-05-27 23:32:25.559 +03:00 [DBG] Found key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3}.
+2024-05-27 23:32:25.569 +03:00 [DBG] Considering key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} with expiration date 2024-08-21 00:07:38Z as default key.
+2024-05-27 23:32:25.575 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:32:25.579 +03:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-05-27 23:32:25.582 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:32:25.587 +03:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-05-27 23:32:25.591 +03:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-05-27 23:32:25.595 +03:00 [DBG] Using key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} as the default key.
+2024-05-27 23:32:25.597 +03:00 [DBG] Key ring with default key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} was loaded during application startup.
+2024-05-27 23:32:25.898 +03:00 [INF] Now listening on: https://localhost:7288
+2024-05-27 23:32:25.900 +03:00 [INF] Now listening on: http://localhost:5099
+2024-05-27 23:32:25.901 +03:00 [DBG] Loaded hosting startup assembly MotorcycleCatalog
+2024-05-27 23:32:25.902 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-05-27 23:32:25.903 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-05-27 23:32:25.904 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-27 23:32:25.905 +03:00 [INF] Hosting environment: Development
+2024-05-27 23:32:25.906 +03:00 [INF] Content root path: C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog
+2024-05-27 23:32:25.907 +03:00 [DBG] Hosting started
+2024-05-27 23:32:25.977 +03:00 [DBG] Connection id "0HN3UHGFFD9KL" accepted.
+2024-05-27 23:32:25.983 +03:00 [DBG] Connection id "0HN3UHGFFD9KL" received FIN.
+2024-05-27 23:32:25.987 +03:00 [DBG] Connection id "0HN3UHGFFD9KL" started.
+2024-05-27 23:32:26.037 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-05-27 23:32:26.064 +03:00 [DBG] Connection id "0HN3UHGFFD9KL" stopped.
+2024-05-27 23:32:26.072 +03:00 [DBG] Connection id "0HN3UHGFFD9KL" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-05-27 23:32:30.536 +03:00 [DBG] Connection id "0HN3UHGFFD9KM" accepted.
+2024-05-27 23:32:30.564 +03:00 [DBG] Connection id "0HN3UHGFFD9KN" accepted.
+2024-05-27 23:32:30.568 +03:00 [DBG] Connection id "0HN3UHGFFD9KM" started.
+2024-05-27 23:32:30.574 +03:00 [DBG] Connection id "0HN3UHGFFD9KN" started.
+2024-05-27 23:32:30.652 +03:00 [DBG] Connection 0HN3UHGFFD9KM established using the following protocol: "Tls12"
+2024-05-27 23:32:30.652 +03:00 [DBG] Connection 0HN3UHGFFD9KN established using the following protocol: "Tls12"
+2024-05-27 23:32:30.761 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger - null null
+2024-05-27 23:32:30.937 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-05-27 23:32:30.961 +03:00 [DBG] No candidates found for the request path '/swagger'
+2024-05-27 23:32:30.963 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:33:32.581 +03:00 [INF] Application is starting!
+2024-05-27 23:33:33.335 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider"]
+2024-05-27 23:33:33.457 +03:00 [DBG] Hosting starting
+2024-05-27 23:33:33.505 +03:00 [INF] User profile is available. Using 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-27 23:33:33.517 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-a64e94d9-8dba-40c7-9233-b696d8ec9983.xml'.
+2024-05-27 23:33:33.525 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-fcc46d5d-2553-4860-a9a2-6b64e1b94db3.xml'.
+2024-05-27 23:33:33.531 +03:00 [DBG] Found key {a64e94d9-8dba-40c7-9233-b696d8ec9983}.
+2024-05-27 23:33:33.537 +03:00 [DBG] Found key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3}.
+2024-05-27 23:33:33.547 +03:00 [DBG] Considering key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} with expiration date 2024-08-21 00:07:38Z as default key.
+2024-05-27 23:33:33.553 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:33:33.557 +03:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-05-27 23:33:33.559 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:33:33.564 +03:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-05-27 23:33:33.572 +03:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-05-27 23:33:33.575 +03:00 [DBG] Using key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} as the default key.
+2024-05-27 23:33:33.578 +03:00 [DBG] Key ring with default key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} was loaded during application startup.
+2024-05-27 23:33:33.834 +03:00 [INF] Now listening on: https://localhost:7288
+2024-05-27 23:33:33.837 +03:00 [INF] Now listening on: http://localhost:5099
+2024-05-27 23:33:33.838 +03:00 [DBG] Loaded hosting startup assembly MotorcycleCatalog
+2024-05-27 23:33:33.840 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-05-27 23:33:33.841 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-05-27 23:33:33.842 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-27 23:33:33.843 +03:00 [INF] Hosting environment: Development
+2024-05-27 23:33:33.843 +03:00 [INF] Content root path: C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog
+2024-05-27 23:33:33.844 +03:00 [DBG] Hosting started
+2024-05-27 23:33:34.198 +03:00 [DBG] Connection id "0HN3UHH3Q0N52" received FIN.
+2024-05-27 23:33:34.200 +03:00 [DBG] Connection id "0HN3UHH3Q0N52" accepted.
+2024-05-27 23:33:34.202 +03:00 [DBG] Connection id "0HN3UHH3Q0N52" started.
+2024-05-27 23:33:34.226 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-05-27 23:33:34.252 +03:00 [DBG] Connection id "0HN3UHH3Q0N52" stopped.
+2024-05-27 23:33:34.257 +03:00 [DBG] Connection id "0HN3UHH3Q0N52" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-05-27 23:33:39.331 +03:00 [DBG] Connection id "0HN3UHH3Q0N53" accepted.
+2024-05-27 23:33:39.356 +03:00 [DBG] Connection id "0HN3UHH3Q0N53" started.
+2024-05-27 23:33:39.426 +03:00 [DBG] Connection 0HN3UHH3Q0N53 established using the following protocol: "Tls12"
+2024-05-27 23:33:39.510 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger - null null
+2024-05-27 23:33:39.672 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-05-27 23:33:39.719 +03:00 [DBG] No candidates found for the request path '/swagger'
+2024-05-27 23:33:39.725 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:34:22.688 +03:00 [INF] Application is starting!
+2024-05-27 23:34:23.362 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider"]
+2024-05-27 23:34:23.428 +03:00 [DBG] Hosting starting
+2024-05-27 23:34:23.469 +03:00 [INF] User profile is available. Using 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-27 23:34:23.478 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-a64e94d9-8dba-40c7-9233-b696d8ec9983.xml'.
+2024-05-27 23:34:23.483 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-fcc46d5d-2553-4860-a9a2-6b64e1b94db3.xml'.
+2024-05-27 23:34:23.488 +03:00 [DBG] Found key {a64e94d9-8dba-40c7-9233-b696d8ec9983}.
+2024-05-27 23:34:23.492 +03:00 [DBG] Found key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3}.
+2024-05-27 23:34:23.499 +03:00 [DBG] Considering key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} with expiration date 2024-08-21 00:07:38Z as default key.
+2024-05-27 23:34:23.502 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:34:23.506 +03:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-05-27 23:34:23.508 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:34:23.513 +03:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-05-27 23:34:23.515 +03:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-05-27 23:34:23.518 +03:00 [DBG] Using key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} as the default key.
+2024-05-27 23:34:23.520 +03:00 [DBG] Key ring with default key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} was loaded during application startup.
+2024-05-27 23:34:23.869 +03:00 [INF] Now listening on: https://localhost:7288
+2024-05-27 23:34:23.872 +03:00 [INF] Now listening on: http://localhost:5099
+2024-05-27 23:34:23.875 +03:00 [DBG] Loaded hosting startup assembly MotorcycleCatalog
+2024-05-27 23:34:23.882 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-05-27 23:34:23.883 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-05-27 23:34:23.889 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-27 23:34:23.891 +03:00 [INF] Hosting environment: Development
+2024-05-27 23:34:23.892 +03:00 [INF] Content root path: C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog
+2024-05-27 23:34:23.893 +03:00 [DBG] Hosting started
+2024-05-27 23:34:24.017 +03:00 [DBG] Connection id "0HN3UHHIL4C8M" received FIN.
+2024-05-27 23:34:24.017 +03:00 [DBG] Connection id "0HN3UHHIL4C8L" received FIN.
+2024-05-27 23:34:24.025 +03:00 [DBG] Connection id "0HN3UHHIL4C8L" accepted.
+2024-05-27 23:34:24.025 +03:00 [DBG] Connection id "0HN3UHHIL4C8M" accepted.
+2024-05-27 23:34:24.027 +03:00 [DBG] Connection id "0HN3UHHIL4C8L" started.
+2024-05-27 23:34:24.028 +03:00 [DBG] Connection id "0HN3UHHIL4C8M" started.
+2024-05-27 23:34:24.048 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-05-27 23:34:24.048 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-05-27 23:34:24.072 +03:00 [DBG] Connection id "0HN3UHHIL4C8L" stopped.
+2024-05-27 23:34:24.072 +03:00 [DBG] Connection id "0HN3UHHIL4C8M" stopped.
+2024-05-27 23:34:24.075 +03:00 [DBG] Connection id "0HN3UHHIL4C8M" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-05-27 23:34:24.075 +03:00 [DBG] Connection id "0HN3UHHIL4C8L" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-05-27 23:34:27.306 +03:00 [DBG] Connection id "0HN3UHHIL4C8N" accepted.
+2024-05-27 23:34:27.321 +03:00 [DBG] Connection id "0HN3UHHIL4C8N" started.
+2024-05-27 23:34:27.376 +03:00 [DBG] Connection 0HN3UHHIL4C8N established using the following protocol: "Tls12"
+2024-05-27 23:34:27.457 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger - null null
+2024-05-27 23:34:27.606 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-05-27 23:34:27.638 +03:00 [DBG] No candidates found for the request path '/swagger'
+2024-05-27 23:34:27.640 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:37:38.184 +03:00 [INF] Application is starting!
+2024-05-27 23:37:38.988 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider"]
+2024-05-27 23:37:39.096 +03:00 [DBG] Hosting starting
+2024-05-27 23:37:39.147 +03:00 [INF] User profile is available. Using 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-27 23:37:39.163 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-a64e94d9-8dba-40c7-9233-b696d8ec9983.xml'.
+2024-05-27 23:37:39.175 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-fcc46d5d-2553-4860-a9a2-6b64e1b94db3.xml'.
+2024-05-27 23:37:39.183 +03:00 [DBG] Found key {a64e94d9-8dba-40c7-9233-b696d8ec9983}.
+2024-05-27 23:37:39.192 +03:00 [DBG] Found key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3}.
+2024-05-27 23:37:39.202 +03:00 [DBG] Considering key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} with expiration date 2024-08-21 00:07:38Z as default key.
+2024-05-27 23:37:39.210 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:37:39.217 +03:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-05-27 23:37:39.220 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:37:39.226 +03:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-05-27 23:37:39.229 +03:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-05-27 23:37:39.232 +03:00 [DBG] Using key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} as the default key.
+2024-05-27 23:37:39.235 +03:00 [DBG] Key ring with default key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} was loaded during application startup.
+2024-05-27 23:37:39.503 +03:00 [INF] Now listening on: https://localhost:7288
+2024-05-27 23:37:39.507 +03:00 [INF] Now listening on: http://localhost:5099
+2024-05-27 23:37:39.510 +03:00 [DBG] Loaded hosting startup assembly MotorcycleCatalog
+2024-05-27 23:37:39.512 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-05-27 23:37:39.513 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-05-27 23:37:39.515 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-27 23:37:39.517 +03:00 [INF] Hosting environment: Development
+2024-05-27 23:37:39.521 +03:00 [INF] Content root path: C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog
+2024-05-27 23:37:39.522 +03:00 [DBG] Hosting started
+2024-05-27 23:37:39.589 +03:00 [DBG] Connection id "0HN3UHJCU7SR9" accepted.
+2024-05-27 23:37:39.593 +03:00 [DBG] Connection id "0HN3UHJCU7SR9" started.
+2024-05-27 23:37:39.608 +03:00 [DBG] Connection id "0HN3UHJCU7SR9" received FIN.
+2024-05-27 23:37:39.665 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-05-27 23:37:39.697 +03:00 [DBG] Connection id "0HN3UHJCU7SR9" stopped.
+2024-05-27 23:37:39.704 +03:00 [DBG] Connection id "0HN3UHJCU7SR9" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-05-27 23:37:39.910 +03:00 [DBG] Connection id "0HN3UHJCU7SRA" accepted.
+2024-05-27 23:37:39.918 +03:00 [DBG] Connection id "0HN3UHJCU7SRA" started.
+2024-05-27 23:37:39.964 +03:00 [DBG] Connection 0HN3UHJCU7SRA established using the following protocol: "Tls12"
+2024-05-27 23:37:40.057 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger - null null
+2024-05-27 23:37:40.198 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-05-27 23:37:40.231 +03:00 [DBG] No candidates found for the request path '/swagger'
+2024-05-27 23:37:40.233 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:40:54.361 +03:00 [INF] Application is starting!
+2024-05-27 23:40:55.382 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider"]
+2024-05-27 23:40:55.492 +03:00 [DBG] Hosting starting
+2024-05-27 23:40:55.550 +03:00 [INF] User profile is available. Using 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-27 23:40:55.563 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-a64e94d9-8dba-40c7-9233-b696d8ec9983.xml'.
+2024-05-27 23:40:55.576 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-fcc46d5d-2553-4860-a9a2-6b64e1b94db3.xml'.
+2024-05-27 23:40:55.583 +03:00 [DBG] Found key {a64e94d9-8dba-40c7-9233-b696d8ec9983}.
+2024-05-27 23:40:55.591 +03:00 [DBG] Found key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3}.
+2024-05-27 23:40:55.603 +03:00 [DBG] Considering key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} with expiration date 2024-08-21 00:07:38Z as default key.
+2024-05-27 23:40:55.613 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:40:55.618 +03:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-05-27 23:40:55.620 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:40:55.625 +03:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-05-27 23:40:55.628 +03:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-05-27 23:40:55.631 +03:00 [DBG] Using key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} as the default key.
+2024-05-27 23:40:55.633 +03:00 [DBG] Key ring with default key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} was loaded during application startup.
+2024-05-27 23:40:55.920 +03:00 [INF] Now listening on: https://localhost:7288
+2024-05-27 23:40:55.921 +03:00 [INF] Now listening on: http://localhost:5099
+2024-05-27 23:40:55.922 +03:00 [DBG] Loaded hosting startup assembly MotorcycleCatalog
+2024-05-27 23:40:55.924 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-05-27 23:40:55.925 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-05-27 23:40:55.927 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-27 23:40:55.928 +03:00 [INF] Hosting environment: Development
+2024-05-27 23:40:55.929 +03:00 [INF] Content root path: C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog
+2024-05-27 23:40:55.931 +03:00 [DBG] Hosting started
+2024-05-27 23:40:56.137 +03:00 [DBG] Connection id "0HN3UHL7GLPCT" received FIN.
+2024-05-27 23:40:56.145 +03:00 [DBG] Connection id "0HN3UHL7GLPCT" accepted.
+2024-05-27 23:40:56.148 +03:00 [DBG] Connection id "0HN3UHL7GLPCT" started.
+2024-05-27 23:40:56.176 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-05-27 23:40:56.202 +03:00 [DBG] Connection id "0HN3UHL7GLPCT" stopped.
+2024-05-27 23:40:56.206 +03:00 [DBG] Connection id "0HN3UHL7GLPCT" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-05-27 23:41:04.551 +03:00 [DBG] Connection id "0HN3UHL7GLPCU" accepted.
+2024-05-27 23:41:04.559 +03:00 [DBG] Connection id "0HN3UHL7GLPCU" started.
+2024-05-27 23:41:04.620 +03:00 [DBG] Connection 0HN3UHL7GLPCU established using the following protocol: "Tls12"
+2024-05-27 23:41:04.715 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger - null null
+2024-05-27 23:41:04.876 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-05-27 23:41:04.904 +03:00 [DBG] No candidates found for the request path '/swagger'
+2024-05-27 23:41:04.909 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:47:10.153 +03:00 [INF] Application is starting!
+2024-05-27 23:47:11.062 +03:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider"]
+2024-05-27 23:47:11.176 +03:00 [DBG] Hosting starting
+2024-05-27 23:47:11.235 +03:00 [INF] User profile is available. Using 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-27 23:47:11.251 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-a64e94d9-8dba-40c7-9233-b696d8ec9983.xml'.
+2024-05-27 23:47:11.260 +03:00 [DBG] Reading data from file 'C:\Users\darkd\AppData\Local\ASP.NET\DataProtection-Keys\key-fcc46d5d-2553-4860-a9a2-6b64e1b94db3.xml'.
+2024-05-27 23:47:11.267 +03:00 [DBG] Found key {a64e94d9-8dba-40c7-9233-b696d8ec9983}.
+2024-05-27 23:47:11.274 +03:00 [DBG] Found key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3}.
+2024-05-27 23:47:11.284 +03:00 [DBG] Considering key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} with expiration date 2024-08-21 00:07:38Z as default key.
+2024-05-27 23:47:11.291 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:47:11.296 +03:00 [DBG] Decrypting secret element using Windows DPAPI.
+2024-05-27 23:47:11.300 +03:00 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=7.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2024-05-27 23:47:11.305 +03:00 [DBG] Opening CNG algorithm 'AES' from provider 'null' with chaining mode CBC.
+2024-05-27 23:47:11.307 +03:00 [DBG] Opening CNG algorithm 'SHA256' from provider 'null' with HMAC.
+2024-05-27 23:47:11.310 +03:00 [DBG] Using key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} as the default key.
+2024-05-27 23:47:11.313 +03:00 [DBG] Key ring with default key {fcc46d5d-2553-4860-a9a2-6b64e1b94db3} was loaded during application startup.
+2024-05-27 23:47:11.625 +03:00 [INF] Now listening on: https://localhost:7288
+2024-05-27 23:47:11.627 +03:00 [INF] Now listening on: http://localhost:5099
+2024-05-27 23:47:11.630 +03:00 [DBG] Loaded hosting startup assembly MotorcycleCatalog
+2024-05-27 23:47:11.631 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-05-27 23:47:11.632 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-05-27 23:47:11.633 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-27 23:47:11.635 +03:00 [INF] Hosting environment: Development
+2024-05-27 23:47:11.636 +03:00 [INF] Content root path: C:\Users\darkd\Desktop\MotorcycleCatalog\MotorcycleCatalog
+2024-05-27 23:47:11.637 +03:00 [DBG] Hosting started
+2024-05-27 23:47:12.082 +03:00 [DBG] Connection id "0HN3UHONHV1V5" received FIN.
+2024-05-27 23:47:12.089 +03:00 [DBG] Connection id "0HN3UHONHV1V5" accepted.
+2024-05-27 23:47:12.091 +03:00 [DBG] Connection id "0HN3UHONHV1V5" started.
+2024-05-27 23:47:12.116 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-05-27 23:47:12.138 +03:00 [DBG] Connection id "0HN3UHONHV1V5" stopped.
+2024-05-27 23:47:12.141 +03:00 [DBG] Connection id "0HN3UHONHV1V5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-05-27 23:47:17.943 +03:00 [DBG] Connection id "0HN3UHONHV1V6" accepted.
+2024-05-27 23:47:17.954 +03:00 [DBG] Connection id "0HN3UHONHV1V6" started.
+2024-05-27 23:47:18.010 +03:00 [DBG] Connection 0HN3UHONHV1V6 established using the following protocol: "Tls12"
+2024-05-27 23:47:18.099 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger - null null
+2024-05-27 23:47:18.243 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-05-27 23:47:18.280 +03:00 [DBG] No candidates found for the request path '/swagger'
+2024-05-27 23:47:18.283 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:47:18.314 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/swagger - 301 0 null 221.0248ms
+2024-05-27 23:47:18.320 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger/index.html - null null
+2024-05-27 23:47:18.327 +03:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2024-05-27 23:47:18.330 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:47:18.435 +03:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-05-27 23:47:18.467 +03:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-05-27 23:47:18.469 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/swagger/index.html - 200 null text/html;charset=utf-8 149.4018ms
+2024-05-27 23:47:18.488 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger/swagger-ui.css - null null
+2024-05-27 23:47:18.489 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger/swagger-ui-bundle.js - null null
+2024-05-27 23:47:18.489 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger/swagger-ui-standalone-preset.js - null null
+2024-05-27 23:47:18.489 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-27 23:47:18.490 +03:00 [DBG] No candidates found for the request path '/swagger/swagger-ui.css'
+2024-05-27 23:47:18.493 +03:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-bundle.js'
+2024-05-27 23:47:18.495 +03:00 [DBG] No candidates found for the request path '/swagger/swagger-ui-standalone-preset.js'
+2024-05-27 23:47:18.500 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:47:18.499 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:47:18.501 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:47:18.503 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/_vs/browserLink - null null
+2024-05-27 23:47:18.530 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/_framework/aspnetcore-browser-refresh.js - 200 13770 application/javascript; charset=utf-8 40.6453ms
+2024-05-27 23:47:18.589 +03:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-27 23:47:18.590 +03:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-27 23:47:18.599 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/swagger/swagger-ui.css - 200 143943 text/css 110.7913ms
+2024-05-27 23:47:18.602 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 112.594ms
+2024-05-27 23:47:18.644 +03:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-27 23:47:18.651 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 162.6763ms
+2024-05-27 23:47:18.693 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/_vs/browserLink - 200 null text/javascript; charset=UTF-8 189.9635ms
+2024-05-27 23:47:19.195 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - null null
+2024-05-27 23:47:19.200 +03:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2024-05-27 23:47:19.201 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:47:19.331 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/swagger/favicon-32x32.png - null null
+2024-05-27 23:47:19.411 +03:00 [DBG] No candidates found for the request path '/swagger/favicon-32x32.png'
+2024-05-27 23:47:19.417 +03:00 [DBG] Request did not match any endpoints
+2024-05-27 23:47:19.419 +03:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-27 23:47:19.421 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/swagger/favicon-32x32.png - 200 628 image/png 90.2453ms
+2024-05-27 23:47:19.553 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 358.4134ms
+2024-05-27 23:47:33.578 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/api/Auth/Token?adminId=user&secret=1234 - null null
+2024-05-27 23:47:33.593 +03:00 [DBG] 1 candidate(s) found for the request path '/api/Auth/Token'
+2024-05-27 23:47:33.599 +03:00 [DBG] Endpoint 'DigitalLibrary.Controllers.AuthController.Token (MotorcycleCatalog)' with route pattern 'api/Auth/Token' is valid for the request path '/api/Auth/Token'
+2024-05-27 23:47:33.601 +03:00 [DBG] Request matched endpoint 'DigitalLibrary.Controllers.AuthController.Token (MotorcycleCatalog)'
+2024-05-27 23:47:33.603 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-05-27 23:47:33.717 +03:00 [DBG] AuthenticationScheme: Bearer was not authenticated.
+2024-05-27 23:47:33.720 +03:00 [INF] Executing endpoint 'DigitalLibrary.Controllers.AuthController.Token (MotorcycleCatalog)'
+2024-05-27 23:47:33.750 +03:00 [INF] Route matched with {action = "Token", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Token(System.String, System.String) on controller DigitalLibrary.Controllers.AuthController (MotorcycleCatalog).
+2024-05-27 23:47:33.754 +03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-05-27 23:47:33.756 +03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-05-27 23:47:33.758 +03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-05-27 23:47:33.760 +03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-05-27 23:47:33.763 +03:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)","Microsoft.AspNetCore.Mvc.ProducesAttribute (Order: 0)"]
+2024-05-27 23:47:33.767 +03:00 [DBG] Executing controller factory for controller DigitalLibrary.Controllers.AuthController (MotorcycleCatalog)
+2024-05-27 23:47:33.770 +03:00 [DBG] Executed controller factory for controller DigitalLibrary.Controllers.AuthController (MotorcycleCatalog)
+2024-05-27 23:47:33.792 +03:00 [DBG] Attempting to bind parameter 'adminId' of type 'System.String' ...
+2024-05-27 23:47:33.797 +03:00 [DBG] Attempting to bind parameter 'adminId' of type 'System.String' using the name 'adminId' in request data ...
+2024-05-27 23:47:33.800 +03:00 [DBG] Done attempting to bind parameter 'adminId' of type 'System.String'.
+2024-05-27 23:47:33.802 +03:00 [DBG] Done attempting to bind parameter 'adminId' of type 'System.String'.
+2024-05-27 23:47:33.803 +03:00 [DBG] Attempting to validate the bound parameter 'adminId' of type 'System.String' ...
+2024-05-27 23:47:33.812 +03:00 [DBG] Done attempting to validate the bound parameter 'adminId' of type 'System.String'.
+2024-05-27 23:47:33.818 +03:00 [DBG] Attempting to bind parameter 'secret' of type 'System.String' ...
+2024-05-27 23:47:33.820 +03:00 [DBG] Attempting to bind parameter 'secret' of type 'System.String' using the name 'secret' in request data ...
+2024-05-27 23:47:33.821 +03:00 [DBG] Done attempting to bind parameter 'secret' of type 'System.String'.
+2024-05-27 23:47:33.822 +03:00 [DBG] Done attempting to bind parameter 'secret' of type 'System.String'.
+2024-05-27 23:47:33.824 +03:00 [DBG] Attempting to validate the bound parameter 'secret' of type 'System.String' ...
+2024-05-27 23:47:33.826 +03:00 [DBG] Done attempting to validate the bound parameter 'secret' of type 'System.String'.
+2024-05-27 23:47:33.880 +03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2024-05-27 23:47:33.911 +03:00 [DBG] No information found on request to perform content negotiation.
+2024-05-27 23:47:33.918 +03:00 [DBG] Attempting to select the first output formatter in the output formatters list which supports a content type from the explicitly specified content types '["application/json"]'.
+2024-05-27 23:47:33.921 +03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-05-27 23:47:33.923 +03:00 [INF] Executing OkObjectResult, writing value of type 'MotorcycleCatalog.DTOs.AdminDTOs.AuthDTO'.
+2024-05-27 23:47:34.090 +03:00 [INF] Executed action DigitalLibrary.Controllers.AuthController.Token (MotorcycleCatalog) in 319.4707ms
+2024-05-27 23:47:34.091 +03:00 [INF] Executed endpoint 'DigitalLibrary.Controllers.AuthController.Token (MotorcycleCatalog)'
+2024-05-27 23:47:34.093 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/api/Auth/Token?adminId=user&secret=1234 - 200 191 application/json; charset=utf-8 515.1774ms
+2024-05-27 23:48:17.171 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7288/api/Motorcycle/Create - application/json-patch+json 145
+2024-05-27 23:48:17.184 +03:00 [DBG] 1 candidate(s) found for the request path '/api/Motorcycle/Create'
+2024-05-27 23:48:17.187 +03:00 [DBG] Endpoint 'DigitalLibrary.Controllers.MotorcycleController.Create (MotorcycleCatalog)' with route pattern 'api/Motorcycle/Create' is valid for the request path '/api/Motorcycle/Create'
+2024-05-27 23:48:17.189 +03:00 [DBG] Request matched endpoint 'DigitalLibrary.Controllers.MotorcycleController.Create (MotorcycleCatalog)'
+2024-05-27 23:48:17.190 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-05-27 23:48:17.243 +03:00 [DBG] Successfully validated the token.
+2024-05-27 23:48:17.247 +03:00 [DBG] AuthenticationScheme: Bearer was successfully authenticated.
+2024-05-27 23:48:17.256 +03:00 [DBG] Authorization was successful.
+2024-05-27 23:48:17.257 +03:00 [INF] Executing endpoint 'DigitalLibrary.Controllers.MotorcycleController.Create (MotorcycleCatalog)'
+2024-05-27 23:48:17.264 +03:00 [INF] Route matched with {action = "Create", controller = "Motorcycle"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(MotorcycleCatalog.DTOs.BookDTOs.CreateMotorcycleRequestDTO) on controller DigitalLibrary.Controllers.MotorcycleController (MotorcycleCatalog).
+2024-05-27 23:48:17.266 +03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-05-27 23:48:17.268 +03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-05-27 23:48:17.269 +03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-05-27 23:48:17.271 +03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-05-27 23:48:17.273 +03:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-05-27 23:48:17.274 +03:00 [DBG] Executing controller factory for controller DigitalLibrary.Controllers.MotorcycleController (MotorcycleCatalog)
+2024-05-27 23:48:17.428 +03:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-05-27 23:48:17.453 +03:00 [DBG] Executed controller factory for controller DigitalLibrary.Controllers.MotorcycleController (MotorcycleCatalog)
+2024-05-27 23:48:17.455 +03:00 [DBG] Attempting to bind parameter 'motorcycleDTO' of type 'MotorcycleCatalog.DTOs.BookDTOs.CreateMotorcycleRequestDTO' ...
+2024-05-27 23:48:17.458 +03:00 [DBG] Attempting to bind parameter 'motorcycleDTO' of type 'MotorcycleCatalog.DTOs.BookDTOs.CreateMotorcycleRequestDTO' using the name '' in request data ...
+2024-05-27 23:48:17.460 +03:00 [DBG] Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'.
+2024-05-27 23:48:17.465 +03:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'.
+2024-05-27 23:48:17.474 +03:00 [DBG] Connection id "0HN3UHONHV1V6", Request id "0HN3UHONHV1V6:00000015": started reading request body.
+2024-05-27 23:48:17.476 +03:00 [DBG] Connection id "0HN3UHONHV1V6", Request id "0HN3UHONHV1V6:00000015": done reading request body.
+2024-05-27 23:48:17.517 +03:00 [DBG] Done attempting to bind parameter 'motorcycleDTO' of type 'MotorcycleCatalog.DTOs.BookDTOs.CreateMotorcycleRequestDTO'.
+2024-05-27 23:48:17.519 +03:00 [DBG] Done attempting to bind parameter 'motorcycleDTO' of type 'MotorcycleCatalog.DTOs.BookDTOs.CreateMotorcycleRequestDTO'.
+2024-05-27 23:48:17.520 +03:00 [DBG] Attempting to validate the bound parameter 'motorcycleDTO' of type 'MotorcycleCatalog.DTOs.BookDTOs.CreateMotorcycleRequestDTO' ...
+2024-05-27 23:48:17.527 +03:00 [DBG] Done attempting to validate the bound parameter 'motorcycleDTO' of type 'MotorcycleCatalog.DTOs.BookDTOs.CreateMotorcycleRequestDTO'.
+2024-05-27 23:48:18.176 +03:00 [WRN] No store type was specified for the decimal property 'HorsePower' on entity type 'Motorcycle'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-05-27 23:48:18.344 +03:00 [DBG] Entity Framework Core 8.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.5' with options: None
+2024-05-27 23:48:18.405 +03:00 [DBG] 'ApplicationDbContext' generated a temporary value for the property 'Motorcycle.MotorcycleId'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:48:18.476 +03:00 [DBG] Context 'ApplicationDbContext' started tracking 'Motorcycle' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:48:18.484 +03:00 [DBG] SaveChanges starting for 'ApplicationDbContext'.
+2024-05-27 23:48:18.489 +03:00 [DBG] DetectChanges starting for 'ApplicationDbContext'.
+2024-05-27 23:48:18.508 +03:00 [DBG] DetectChanges completed for 'ApplicationDbContext'.
+2024-05-27 23:48:18.602 +03:00 [DBG] Creating DbConnection.
+2024-05-27 23:48:18.661 +03:00 [DBG] Created DbConnection. (60ms).
+2024-05-27 23:48:18.667 +03:00 [DBG] Opening connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:20.842 +03:00 [DBG] Opened connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:20.853 +03:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-05-27 23:48:20.863 +03:00 [DBG] Created DbCommand for 'ExecuteReader' (5ms).
+2024-05-27 23:48:20.876 +03:00 [DBG] Initialized DbCommand for 'ExecuteReader' (23ms).
+2024-05-27 23:48:20.889 +03:00 [DBG] Executing DbCommand [Parameters=[@p0='?' (Size = 4000), @p1='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2), @p4='?' (DbType = Int32), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Motorcycles] ([Brand], [HorsePower], [Model], [ProductionDate], [Rating], [Torque], [Weight])
+OUTPUT INSERTED.[MotorcycleId]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+2024-05-27 23:48:20.981 +03:00 [INF] Executed DbCommand (97ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Precision = 18) (Scale = 2) (DbType = Decimal), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2), @p4='?' (DbType = Int32), @p5='?' (DbType = Int32), @p6='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Motorcycles] ([Brand], [HorsePower], [Model], [ProductionDate], [Rating], [Torque], [Weight])
+OUTPUT INSERTED.[MotorcycleId]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+2024-05-27 23:48:21.002 +03:00 [DBG] The foreign key property 'Motorcycle.MotorcycleId' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2024-05-27 23:48:21.015 +03:00 [DBG] Closing data reader to 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:21.023 +03:00 [DBG] A data reader for 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' is being disposed after spending 35ms reading results.
+2024-05-27 23:48:21.029 +03:00 [DBG] Closing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:21.037 +03:00 [DBG] Closed connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' (7ms).
+2024-05-27 23:48:21.052 +03:00 [DBG] An entity of type 'Motorcycle' tracked by 'ApplicationDbContext' changed state from '"Added"' to '"Unchanged"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:48:21.055 +03:00 [DBG] SaveChanges completed for 'ApplicationDbContext' with 1 entities written to the database.
+2024-05-27 23:48:21.061 +03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2024-05-27 23:48:21.064 +03:00 [DBG] No information found on request to perform content negotiation.
+2024-05-27 23:48:21.065 +03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-05-27 23:48:21.066 +03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-05-27 23:48:21.068 +03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-05-27 23:48:21.070 +03:00 [INF] Executing CreatedAtActionResult, writing value of type 'MotorcycleCatalog.DTOs.BookDTOs.MotorcycleDTO'.
+2024-05-27 23:48:21.089 +03:00 [DBG] Found the endpoints ["DigitalLibrary.Controllers.MotorcycleController.GetById (MotorcycleCatalog)"] for address (id=[1],action=[GetById],controller=[Motorcycle])
+2024-05-27 23:48:21.095 +03:00 [DBG] Successfully processed template api/Motorcycle/GetById/{id:int} for DigitalLibrary.Controllers.MotorcycleController.GetById (MotorcycleCatalog) resulting in /api/Motorcycle/GetById/1 and 
+2024-05-27 23:48:21.099 +03:00 [DBG] Link generation succeeded for endpoints ["DigitalLibrary.Controllers.MotorcycleController.GetById (MotorcycleCatalog)"] with result /api/Motorcycle/GetById/1
+2024-05-27 23:48:21.115 +03:00 [INF] Executed action DigitalLibrary.Controllers.MotorcycleController.Create (MotorcycleCatalog) in 3840.2408ms
+2024-05-27 23:48:21.119 +03:00 [INF] Executed endpoint 'DigitalLibrary.Controllers.MotorcycleController.Create (MotorcycleCatalog)'
+2024-05-27 23:48:21.124 +03:00 [DBG] 'ApplicationDbContext' disposed.
+2024-05-27 23:48:21.141 +03:00 [DBG] Disposing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:21.144 +03:00 [DBG] Disposed connection to database '' on server '' (3ms).
+2024-05-27 23:48:21.150 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7288/api/Motorcycle/Create - 201 161 application/json; charset=utf-8 3978.5286ms
+2024-05-27 23:48:44.793 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/api/Motorcycle/GetAll?PageNumber=1&PageSize=5 - null null
+2024-05-27 23:48:44.806 +03:00 [DBG] 1 candidate(s) found for the request path '/api/Motorcycle/GetAll'
+2024-05-27 23:48:44.808 +03:00 [DBG] Endpoint 'DigitalLibrary.Controllers.MotorcycleController.GetAll (MotorcycleCatalog)' with route pattern 'api/Motorcycle/GetAll' is valid for the request path '/api/Motorcycle/GetAll'
+2024-05-27 23:48:44.809 +03:00 [DBG] Request matched endpoint 'DigitalLibrary.Controllers.MotorcycleController.GetAll (MotorcycleCatalog)'
+2024-05-27 23:48:44.810 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-05-27 23:48:44.817 +03:00 [DBG] Successfully validated the token.
+2024-05-27 23:48:44.818 +03:00 [DBG] AuthenticationScheme: Bearer was successfully authenticated.
+2024-05-27 23:48:44.821 +03:00 [DBG] Authorization was successful.
+2024-05-27 23:48:44.822 +03:00 [INF] Executing endpoint 'DigitalLibrary.Controllers.MotorcycleController.GetAll (MotorcycleCatalog)'
+2024-05-27 23:48:44.828 +03:00 [INF] Route matched with {action = "GetAll", controller = "Motorcycle"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll(MotorcycleCatalog.Helpers.QueryObject) on controller DigitalLibrary.Controllers.MotorcycleController (MotorcycleCatalog).
+2024-05-27 23:48:44.831 +03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-05-27 23:48:44.833 +03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-05-27 23:48:44.835 +03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-05-27 23:48:44.837 +03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-05-27 23:48:44.839 +03:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-05-27 23:48:44.840 +03:00 [DBG] Executing controller factory for controller DigitalLibrary.Controllers.MotorcycleController (MotorcycleCatalog)
+2024-05-27 23:48:44.843 +03:00 [DBG] Executed controller factory for controller DigitalLibrary.Controllers.MotorcycleController (MotorcycleCatalog)
+2024-05-27 23:48:44.844 +03:00 [DBG] Attempting to bind parameter 'query' of type 'MotorcycleCatalog.Helpers.QueryObject' ...
+2024-05-27 23:48:44.848 +03:00 [DBG] Attempting to bind parameter 'query' of type 'MotorcycleCatalog.Helpers.QueryObject' using the name '' in request data ...
+2024-05-27 23:48:44.854 +03:00 [DBG] Attempting to bind property 'MotorcycleCatalog.Helpers.QueryObject.PageNumber' of type 'System.Int32' using the name 'PageNumber' in request data ...
+2024-05-27 23:48:44.857 +03:00 [DBG] Done attempting to bind property 'MotorcycleCatalog.Helpers.QueryObject.PageNumber' of type 'System.Int32'.
+2024-05-27 23:48:44.860 +03:00 [DBG] Attempting to bind property 'MotorcycleCatalog.Helpers.QueryObject.PageSize' of type 'System.Int32' using the name 'PageSize' in request data ...
+2024-05-27 23:48:44.862 +03:00 [DBG] Done attempting to bind property 'MotorcycleCatalog.Helpers.QueryObject.PageSize' of type 'System.Int32'.
+2024-05-27 23:48:44.867 +03:00 [DBG] Done attempting to bind parameter 'query' of type 'MotorcycleCatalog.Helpers.QueryObject'.
+2024-05-27 23:48:44.868 +03:00 [DBG] Done attempting to bind parameter 'query' of type 'MotorcycleCatalog.Helpers.QueryObject'.
+2024-05-27 23:48:44.869 +03:00 [DBG] Attempting to validate the bound parameter 'query' of type 'MotorcycleCatalog.Helpers.QueryObject' ...
+2024-05-27 23:48:44.871 +03:00 [DBG] Done attempting to validate the bound parameter 'query' of type 'MotorcycleCatalog.Helpers.QueryObject'.
+2024-05-27 23:48:44.944 +03:00 [DBG] Entity Framework Core 8.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.5' with options: None
+2024-05-27 23:48:44.996 +03:00 [DBG] Compiling query expression: 
+'DbSet<Motorcycle>()
+    .Include(c => c.Reviews)
+    .Skip(__p_0)
+    .Take(__p_1)'
+2024-05-27 23:48:45.063 +03:00 [DBG] Including navigation: 'Motorcycle.Reviews'.
+2024-05-27 23:48:45.134 +03:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-05-27 23:48:45.136 +03:00 [WRN] The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+2024-05-27 23:48:45.353 +03:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Motorcycle>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Client Projections:
+            0 -> Dictionary<IProperty, int> { [Property: Motorcycle.MotorcycleId (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Motorcycle.Brand (string) Required, 1], [Property: Motorcycle.HorsePower (decimal) Required, 2], [Property: Motorcycle.Model (string) Required, 3], [Property: Motorcycle.ProductionDate (DateTime) Required, 4], [Property: Motorcycle.Rating (int) Required, 5], [Property: Motorcycle.Torque (int) Required, 6], [Property: Motorcycle.Weight (int) Required, 7] }
+            1 -> 0
+            2 -> Dictionary<IProperty, int> { [Property: Review.ReviewId (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 8], [Property: Review.MotorcycleId (int) Required FK Index, 9], [Property: Review.Rating (int) Required, 10], [Property: Review.ReviewDate (DateTime) Required, 11], [Property: Review.ReviewText (string) Required, 12], [Property: Review.UserId (int) Required FK Index, 13] }
+            3 -> 8
+        SELECT t.MotorcycleId, t.Brand, t.HorsePower, t.Model, t.ProductionDate, t.Rating, t.Torque, t.Weight, r.ReviewId, r.MotorcycleId, r.Rating, r.ReviewDate, r.ReviewText, r.UserId
+        FROM 
+        (
+            SELECT m.MotorcycleId, m.Brand, m.HorsePower, m.Model, m.ProductionDate, m.Rating, m.Torque, m.Weight
+            FROM Motorcycles AS m
+            OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+        ) AS t
+        LEFT JOIN Reviews AS r ON t.MotorcycleId == r.MotorcycleId
+        ORDER BY t.MotorcycleId ASC), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Motorcycle>, 
+    MotorcycleCatalog.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2024-05-27 23:48:45.398 +03:00 [DBG] Creating DbConnection.
+2024-05-27 23:48:45.400 +03:00 [DBG] Created DbConnection. (1ms).
+2024-05-27 23:48:45.401 +03:00 [DBG] Opening connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:45.403 +03:00 [DBG] Opened connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:45.404 +03:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-05-27 23:48:45.406 +03:00 [DBG] Created DbCommand for 'ExecuteReader' (1ms).
+2024-05-27 23:48:45.407 +03:00 [DBG] Initialized DbCommand for 'ExecuteReader' (2ms).
+2024-05-27 23:48:45.409 +03:00 [DBG] Executing DbCommand [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[MotorcycleId], [t].[Brand], [t].[HorsePower], [t].[Model], [t].[ProductionDate], [t].[Rating], [t].[Torque], [t].[Weight], [r].[ReviewId], [r].[MotorcycleId], [r].[Rating], [r].[ReviewDate], [r].[ReviewText], [r].[UserId]
+FROM (
+    SELECT [m].[MotorcycleId], [m].[Brand], [m].[HorsePower], [m].[Model], [m].[ProductionDate], [m].[Rating], [m].[Torque], [m].[Weight]
+    FROM [Motorcycles] AS [m]
+    ORDER BY (SELECT 1)
+    OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+) AS [t]
+LEFT JOIN [Reviews] AS [r] ON [t].[MotorcycleId] = [r].[MotorcycleId]
+ORDER BY [t].[MotorcycleId]
+2024-05-27 23:48:45.426 +03:00 [INF] Executed DbCommand (17ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [t].[MotorcycleId], [t].[Brand], [t].[HorsePower], [t].[Model], [t].[ProductionDate], [t].[Rating], [t].[Torque], [t].[Weight], [r].[ReviewId], [r].[MotorcycleId], [r].[Rating], [r].[ReviewDate], [r].[ReviewText], [r].[UserId]
+FROM (
+    SELECT [m].[MotorcycleId], [m].[Brand], [m].[HorsePower], [m].[Model], [m].[ProductionDate], [m].[Rating], [m].[Torque], [m].[Weight]
+    FROM [Motorcycles] AS [m]
+    ORDER BY (SELECT 1)
+    OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+) AS [t]
+LEFT JOIN [Reviews] AS [r] ON [t].[MotorcycleId] = [r].[MotorcycleId]
+ORDER BY [t].[MotorcycleId]
+2024-05-27 23:48:45.440 +03:00 [DBG] Context 'ApplicationDbContext' started tracking 'Motorcycle' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:48:45.449 +03:00 [DBG] Closing data reader to 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:45.450 +03:00 [DBG] A data reader for 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' is being disposed after spending 21ms reading results.
+2024-05-27 23:48:45.452 +03:00 [DBG] Closing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:45.454 +03:00 [DBG] Closed connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' (2ms).
+2024-05-27 23:48:45.457 +03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2024-05-27 23:48:45.459 +03:00 [DBG] No information found on request to perform content negotiation.
+2024-05-27 23:48:45.460 +03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-05-27 23:48:45.461 +03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-05-27 23:48:45.462 +03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-05-27 23:48:45.464 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MotorcycleCatalog.Models.Motorcycle, MotorcycleCatalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-27 23:48:45.470 +03:00 [INF] Executed action DigitalLibrary.Controllers.MotorcycleController.GetAll (MotorcycleCatalog) in 630.1211ms
+2024-05-27 23:48:45.472 +03:00 [INF] Executed endpoint 'DigitalLibrary.Controllers.MotorcycleController.GetAll (MotorcycleCatalog)'
+2024-05-27 23:48:45.474 +03:00 [DBG] 'ApplicationDbContext' disposed.
+2024-05-27 23:48:45.476 +03:00 [DBG] Disposing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:48:45.477 +03:00 [DBG] Disposed connection to database '' on server '' (1ms).
+2024-05-27 23:48:45.481 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/api/Motorcycle/GetAll?PageNumber=1&PageSize=5 - 200 165 application/json; charset=utf-8 688.1432ms
+2024-05-27 23:49:21.727 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7288/api/User/Create - application/json-patch+json 147
+2024-05-27 23:49:21.751 +03:00 [DBG] 1 candidate(s) found for the request path '/api/User/Create'
+2024-05-27 23:49:21.753 +03:00 [DBG] Endpoint 'DigitalLibrary.Controllers.UserController.Create (MotorcycleCatalog)' with route pattern 'api/User/Create' is valid for the request path '/api/User/Create'
+2024-05-27 23:49:21.754 +03:00 [DBG] Request matched endpoint 'DigitalLibrary.Controllers.UserController.Create (MotorcycleCatalog)'
+2024-05-27 23:49:21.755 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-05-27 23:49:21.756 +03:00 [DBG] Successfully validated the token.
+2024-05-27 23:49:21.757 +03:00 [DBG] AuthenticationScheme: Bearer was successfully authenticated.
+2024-05-27 23:49:21.759 +03:00 [DBG] Authorization was successful.
+2024-05-27 23:49:21.760 +03:00 [INF] Executing endpoint 'DigitalLibrary.Controllers.UserController.Create (MotorcycleCatalog)'
+2024-05-27 23:49:21.766 +03:00 [INF] Route matched with {action = "Create", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(MotorcycleCatalog.DTOs.UserDTOs.CreateUserRequestDTO) on controller DigitalLibrary.Controllers.UserController (MotorcycleCatalog).
+2024-05-27 23:49:21.769 +03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-05-27 23:49:21.770 +03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-05-27 23:49:21.771 +03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-05-27 23:49:21.773 +03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-05-27 23:49:21.775 +03:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-05-27 23:49:21.776 +03:00 [DBG] Executing controller factory for controller DigitalLibrary.Controllers.UserController (MotorcycleCatalog)
+2024-05-27 23:49:21.781 +03:00 [DBG] Executed controller factory for controller DigitalLibrary.Controllers.UserController (MotorcycleCatalog)
+2024-05-27 23:49:21.783 +03:00 [DBG] Attempting to bind parameter 'userDTO' of type 'MotorcycleCatalog.DTOs.UserDTOs.CreateUserRequestDTO' ...
+2024-05-27 23:49:21.784 +03:00 [DBG] Attempting to bind parameter 'userDTO' of type 'MotorcycleCatalog.DTOs.UserDTOs.CreateUserRequestDTO' using the name '' in request data ...
+2024-05-27 23:49:21.786 +03:00 [DBG] Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'.
+2024-05-27 23:49:21.788 +03:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'.
+2024-05-27 23:49:21.789 +03:00 [DBG] Connection id "0HN3UHONHV1V6", Request id "0HN3UHONHV1V6:00000019": started reading request body.
+2024-05-27 23:49:21.790 +03:00 [DBG] Connection id "0HN3UHONHV1V6", Request id "0HN3UHONHV1V6:00000019": done reading request body.
+2024-05-27 23:49:21.794 +03:00 [DBG] Done attempting to bind parameter 'userDTO' of type 'MotorcycleCatalog.DTOs.UserDTOs.CreateUserRequestDTO'.
+2024-05-27 23:49:21.796 +03:00 [DBG] Done attempting to bind parameter 'userDTO' of type 'MotorcycleCatalog.DTOs.UserDTOs.CreateUserRequestDTO'.
+2024-05-27 23:49:21.798 +03:00 [DBG] Attempting to validate the bound parameter 'userDTO' of type 'MotorcycleCatalog.DTOs.UserDTOs.CreateUserRequestDTO' ...
+2024-05-27 23:49:21.802 +03:00 [DBG] Done attempting to validate the bound parameter 'userDTO' of type 'MotorcycleCatalog.DTOs.UserDTOs.CreateUserRequestDTO'.
+2024-05-27 23:49:21.818 +03:00 [DBG] Entity Framework Core 8.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.5' with options: None
+2024-05-27 23:49:21.822 +03:00 [DBG] 'ApplicationDbContext' generated a temporary value for the property 'User.UserId'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:49:21.837 +03:00 [DBG] Context 'ApplicationDbContext' started tracking 'User' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:49:21.839 +03:00 [DBG] SaveChanges starting for 'ApplicationDbContext'.
+2024-05-27 23:49:21.841 +03:00 [DBG] DetectChanges starting for 'ApplicationDbContext'.
+2024-05-27 23:49:21.850 +03:00 [DBG] DetectChanges completed for 'ApplicationDbContext'.
+2024-05-27 23:49:21.853 +03:00 [DBG] Creating DbConnection.
+2024-05-27 23:49:21.854 +03:00 [DBG] Created DbConnection. (0ms).
+2024-05-27 23:49:21.855 +03:00 [DBG] Opening connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:21.856 +03:00 [DBG] Opened connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:21.857 +03:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-05-27 23:49:21.859 +03:00 [DBG] Created DbCommand for 'ExecuteReader' (1ms).
+2024-05-27 23:49:21.860 +03:00 [DBG] Initialized DbCommand for 'ExecuteReader' (2ms).
+2024-05-27 23:49:21.861 +03:00 [DBG] Executing DbCommand [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (DbType = Boolean), @p3='?' (Size = 4000), @p4='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Users] ([DateOfBirth], [Email], [IsActive], [Password], [Username])
+OUTPUT INSERTED.[UserId]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-05-27 23:49:21.868 +03:00 [INF] Executed DbCommand (7ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 4000), @p2='?' (DbType = Boolean), @p3='?' (Size = 4000), @p4='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Users] ([DateOfBirth], [Email], [IsActive], [Password], [Username])
+OUTPUT INSERTED.[UserId]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-05-27 23:49:21.871 +03:00 [DBG] The foreign key property 'User.UserId' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2024-05-27 23:49:21.873 +03:00 [DBG] Closing data reader to 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:21.874 +03:00 [DBG] A data reader for 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' is being disposed after spending 3ms reading results.
+2024-05-27 23:49:21.876 +03:00 [DBG] Closing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:21.878 +03:00 [DBG] Closed connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' (1ms).
+2024-05-27 23:49:21.882 +03:00 [DBG] An entity of type 'User' tracked by 'ApplicationDbContext' changed state from '"Added"' to '"Unchanged"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:49:21.884 +03:00 [DBG] SaveChanges completed for 'ApplicationDbContext' with 1 entities written to the database.
+2024-05-27 23:49:21.888 +03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2024-05-27 23:49:21.891 +03:00 [DBG] No information found on request to perform content negotiation.
+2024-05-27 23:49:21.891 +03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-05-27 23:49:21.892 +03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-05-27 23:49:21.893 +03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-05-27 23:49:21.895 +03:00 [INF] Executing CreatedAtActionResult, writing value of type 'MotorcycleCatalog.DTOs.UserDTOs.UserDTO'.
+2024-05-27 23:49:21.898 +03:00 [DBG] Found the endpoints ["DigitalLibrary.Controllers.UserController.GetById (MotorcycleCatalog)"] for address (id=[1],action=[GetById],controller=[User])
+2024-05-27 23:49:21.900 +03:00 [DBG] Successfully processed template api/User/GetById/{id:int} for DigitalLibrary.Controllers.UserController.GetById (MotorcycleCatalog) resulting in /api/User/GetById/1 and 
+2024-05-27 23:49:21.901 +03:00 [DBG] Link generation succeeded for endpoints ["DigitalLibrary.Controllers.UserController.GetById (MotorcycleCatalog)"] with result /api/User/GetById/1
+2024-05-27 23:49:21.907 +03:00 [INF] Executed action DigitalLibrary.Controllers.UserController.Create (MotorcycleCatalog) in 130.116ms
+2024-05-27 23:49:21.912 +03:00 [INF] Executed endpoint 'DigitalLibrary.Controllers.UserController.Create (MotorcycleCatalog)'
+2024-05-27 23:49:21.914 +03:00 [DBG] 'ApplicationDbContext' disposed.
+2024-05-27 23:49:21.917 +03:00 [DBG] Disposing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:21.918 +03:00 [DBG] Disposed connection to database '' on server '' (1ms).
+2024-05-27 23:49:21.920 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7288/api/User/Create - 201 151 application/json; charset=utf-8 192.2496ms
+2024-05-27 23:49:54.273 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7288/api/Review/Create/1,1 - application/json-patch+json 94
+2024-05-27 23:49:54.279 +03:00 [DBG] 1 candidate(s) found for the request path '/api/Review/Create/1,1'
+2024-05-27 23:49:54.288 +03:00 [DBG] Endpoint 'DigitalLibrary.Controllers.ReviewController.Create (MotorcycleCatalog)' with route pattern 'api/Review/Create/{userId:int},{motorcycleId:int}' is valid for the request path '/api/Review/Create/1,1'
+2024-05-27 23:49:54.290 +03:00 [DBG] Request matched endpoint 'DigitalLibrary.Controllers.ReviewController.Create (MotorcycleCatalog)'
+2024-05-27 23:49:54.291 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-05-27 23:49:54.293 +03:00 [DBG] Successfully validated the token.
+2024-05-27 23:49:54.293 +03:00 [DBG] AuthenticationScheme: Bearer was successfully authenticated.
+2024-05-27 23:49:54.294 +03:00 [DBG] Authorization was successful.
+2024-05-27 23:49:54.295 +03:00 [INF] Executing endpoint 'DigitalLibrary.Controllers.ReviewController.Create (MotorcycleCatalog)'
+2024-05-27 23:49:54.302 +03:00 [INF] Route matched with {action = "Create", controller = "Review"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Create(Int32, Int32, MotorcycleCatalog.DTOs.ReviewDTOs.CreateReviewRequestDTO) on controller DigitalLibrary.Controllers.ReviewController (MotorcycleCatalog).
+2024-05-27 23:49:54.304 +03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-05-27 23:49:54.306 +03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-05-27 23:49:54.308 +03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-05-27 23:49:54.310 +03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-05-27 23:49:54.311 +03:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-05-27 23:49:54.313 +03:00 [DBG] Executing controller factory for controller DigitalLibrary.Controllers.ReviewController (MotorcycleCatalog)
+2024-05-27 23:49:54.318 +03:00 [DBG] Executed controller factory for controller DigitalLibrary.Controllers.ReviewController (MotorcycleCatalog)
+2024-05-27 23:49:54.320 +03:00 [DBG] Attempting to bind parameter 'userId' of type 'System.Int32' ...
+2024-05-27 23:49:54.321 +03:00 [DBG] Attempting to bind parameter 'userId' of type 'System.Int32' using the name 'userId' in request data ...
+2024-05-27 23:49:54.323 +03:00 [DBG] Done attempting to bind parameter 'userId' of type 'System.Int32'.
+2024-05-27 23:49:54.324 +03:00 [DBG] Done attempting to bind parameter 'userId' of type 'System.Int32'.
+2024-05-27 23:49:54.325 +03:00 [DBG] Attempting to validate the bound parameter 'userId' of type 'System.Int32' ...
+2024-05-27 23:49:54.327 +03:00 [DBG] Done attempting to validate the bound parameter 'userId' of type 'System.Int32'.
+2024-05-27 23:49:54.328 +03:00 [DBG] Attempting to bind parameter 'motorcycleId' of type 'System.Int32' ...
+2024-05-27 23:49:54.329 +03:00 [DBG] Attempting to bind parameter 'motorcycleId' of type 'System.Int32' using the name 'motorcycleId' in request data ...
+2024-05-27 23:49:54.332 +03:00 [DBG] Done attempting to bind parameter 'motorcycleId' of type 'System.Int32'.
+2024-05-27 23:49:54.334 +03:00 [DBG] Done attempting to bind parameter 'motorcycleId' of type 'System.Int32'.
+2024-05-27 23:49:54.335 +03:00 [DBG] Attempting to validate the bound parameter 'motorcycleId' of type 'System.Int32' ...
+2024-05-27 23:49:54.337 +03:00 [DBG] Done attempting to validate the bound parameter 'motorcycleId' of type 'System.Int32'.
+2024-05-27 23:49:54.338 +03:00 [DBG] Attempting to bind parameter 'reviewDTO' of type 'MotorcycleCatalog.DTOs.ReviewDTOs.CreateReviewRequestDTO' ...
+2024-05-27 23:49:54.340 +03:00 [DBG] Attempting to bind parameter 'reviewDTO' of type 'MotorcycleCatalog.DTOs.ReviewDTOs.CreateReviewRequestDTO' using the name '' in request data ...
+2024-05-27 23:49:54.341 +03:00 [DBG] Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'.
+2024-05-27 23:49:54.343 +03:00 [DBG] Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'.
+2024-05-27 23:49:54.344 +03:00 [DBG] Connection id "0HN3UHONHV1V6", Request id "0HN3UHONHV1V6:0000001B": started reading request body.
+2024-05-27 23:49:54.345 +03:00 [DBG] Connection id "0HN3UHONHV1V6", Request id "0HN3UHONHV1V6:0000001B": done reading request body.
+2024-05-27 23:49:54.350 +03:00 [DBG] Done attempting to bind parameter 'reviewDTO' of type 'MotorcycleCatalog.DTOs.ReviewDTOs.CreateReviewRequestDTO'.
+2024-05-27 23:49:54.352 +03:00 [DBG] Done attempting to bind parameter 'reviewDTO' of type 'MotorcycleCatalog.DTOs.ReviewDTOs.CreateReviewRequestDTO'.
+2024-05-27 23:49:54.354 +03:00 [DBG] Attempting to validate the bound parameter 'reviewDTO' of type 'MotorcycleCatalog.DTOs.ReviewDTOs.CreateReviewRequestDTO' ...
+2024-05-27 23:49:54.356 +03:00 [DBG] Done attempting to validate the bound parameter 'reviewDTO' of type 'MotorcycleCatalog.DTOs.ReviewDTOs.CreateReviewRequestDTO'.
+2024-05-27 23:49:54.360 +03:00 [DBG] Entity Framework Core 8.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.5' with options: None
+2024-05-27 23:49:54.365 +03:00 [DBG] Compiling query expression: 
+'DbSet<Motorcycle>()
+    .Any(s => s.MotorcycleId == __id_0)'
+2024-05-27 23:49:54.377 +03:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleAsync<bool>(
+    asyncEnumerable: new SingleQueryingEnumerable<bool>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.QueryExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> 0
+            SELECT EXISTS (
+                SELECT 1
+                FROM Motorcycles AS m
+                WHERE m.MotorcycleId == @__id_0)), 
+        null, 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, bool>, 
+        MotorcycleCatalog.Data.ApplicationDbContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2024-05-27 23:49:54.391 +03:00 [DBG] Creating DbConnection.
+2024-05-27 23:49:54.392 +03:00 [DBG] Created DbConnection. (0ms).
+2024-05-27 23:49:54.393 +03:00 [DBG] Opening connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.394 +03:00 [DBG] Opened connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.395 +03:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-05-27 23:49:54.396 +03:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-05-27 23:49:54.399 +03:00 [DBG] Initialized DbCommand for 'ExecuteReader' (3ms).
+2024-05-27 23:49:54.400 +03:00 [DBG] Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Motorcycles] AS [m]
+        WHERE [m].[MotorcycleId] = @__id_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-05-27 23:49:54.404 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Motorcycles] AS [m]
+        WHERE [m].[MotorcycleId] = @__id_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-05-27 23:49:54.411 +03:00 [DBG] Closing data reader to 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.412 +03:00 [DBG] A data reader for 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' is being disposed after spending 4ms reading results.
+2024-05-27 23:49:54.414 +03:00 [DBG] Closing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.416 +03:00 [DBG] Closed connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' (2ms).
+2024-05-27 23:49:54.419 +03:00 [DBG] Compiling query expression: 
+'DbSet<User>()
+    .Any(s => s.UserId == __id_0)'
+2024-05-27 23:49:54.423 +03:00 [DBG] Generated query execution expression: 
+'queryContext => ShapedQueryCompilingExpressionVisitor.SingleAsync<bool>(
+    asyncEnumerable: new SingleQueryingEnumerable<bool>(
+        (RelationalQueryContext)queryContext, 
+        RelationalCommandCache.QueryExpression(
+            Projection Mapping:
+                EmptyProjectionMember -> 0
+            SELECT EXISTS (
+                SELECT 1
+                FROM Users AS u
+                WHERE u.UserId == @__id_0)), 
+        null, 
+        Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, bool>, 
+        MotorcycleCatalog.Data.ApplicationDbContext, 
+        False, 
+        False, 
+        True
+    ), 
+    cancellationToken: queryContext.CancellationToken)'
+2024-05-27 23:49:54.426 +03:00 [DBG] Opening connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.427 +03:00 [DBG] Opened connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.429 +03:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-05-27 23:49:54.429 +03:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-05-27 23:49:54.432 +03:00 [DBG] Initialized DbCommand for 'ExecuteReader' (2ms).
+2024-05-27 23:49:54.433 +03:00 [DBG] Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        WHERE [u].[UserId] = @__id_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-05-27 23:49:54.437 +03:00 [INF] Executed DbCommand (4ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        WHERE [u].[UserId] = @__id_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2024-05-27 23:49:54.441 +03:00 [DBG] Closing data reader to 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.442 +03:00 [DBG] A data reader for 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' is being disposed after spending 1ms reading results.
+2024-05-27 23:49:54.444 +03:00 [DBG] Closing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.446 +03:00 [DBG] Closed connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' (1ms).
+2024-05-27 23:49:54.454 +03:00 [DBG] 'ApplicationDbContext' generated a temporary value for the property 'Review.ReviewId'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:49:54.467 +03:00 [DBG] Context 'ApplicationDbContext' started tracking 'Review' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:49:54.468 +03:00 [DBG] SaveChanges starting for 'ApplicationDbContext'.
+2024-05-27 23:49:54.469 +03:00 [DBG] DetectChanges starting for 'ApplicationDbContext'.
+2024-05-27 23:49:54.473 +03:00 [DBG] DetectChanges completed for 'ApplicationDbContext'.
+2024-05-27 23:49:54.476 +03:00 [DBG] Opening connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.478 +03:00 [DBG] Opened connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.479 +03:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-05-27 23:49:54.482 +03:00 [DBG] Created DbCommand for 'ExecuteReader' (2ms).
+2024-05-27 23:49:54.484 +03:00 [DBG] Initialized DbCommand for 'ExecuteReader' (4ms).
+2024-05-27 23:49:54.485 +03:00 [DBG] Executing DbCommand [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Reviews] ([MotorcycleId], [Rating], [ReviewDate], [ReviewText], [UserId])
+OUTPUT INSERTED.[ReviewId]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-05-27 23:49:54.491 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = DateTime2), @p3='?' (Size = 4000), @p4='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Reviews] ([MotorcycleId], [Rating], [ReviewDate], [ReviewText], [UserId])
+OUTPUT INSERTED.[ReviewId]
+VALUES (@p0, @p1, @p2, @p3, @p4);
+2024-05-27 23:49:54.494 +03:00 [DBG] The foreign key property 'Review.ReviewId' was detected as changed. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see property values.
+2024-05-27 23:49:54.499 +03:00 [DBG] Closing data reader to 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.500 +03:00 [DBG] A data reader for 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' is being disposed after spending 6ms reading results.
+2024-05-27 23:49:54.502 +03:00 [DBG] Closing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.503 +03:00 [DBG] Closed connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' (1ms).
+2024-05-27 23:49:54.505 +03:00 [DBG] An entity of type 'Review' tracked by 'ApplicationDbContext' changed state from '"Added"' to '"Unchanged"'. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:49:54.507 +03:00 [DBG] SaveChanges completed for 'ApplicationDbContext' with 1 entities written to the database.
+2024-05-27 23:49:54.510 +03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2024-05-27 23:49:54.515 +03:00 [DBG] No information found on request to perform content negotiation.
+2024-05-27 23:49:54.516 +03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-05-27 23:49:54.518 +03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-05-27 23:49:54.519 +03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-05-27 23:49:54.521 +03:00 [INF] Executing CreatedAtActionResult, writing value of type 'MotorcycleCatalog.DTOs.ReviewDTOs.ReviewDTO'.
+2024-05-27 23:49:54.522 +03:00 [DBG] Found the endpoints ["DigitalLibrary.Controllers.ReviewController.GetById (MotorcycleCatalog)"] for address (id=[1],action=[GetById],controller=[Review])
+2024-05-27 23:49:54.523 +03:00 [DBG] Successfully processed template api/Review/GetById/{id:int} for DigitalLibrary.Controllers.ReviewController.GetById (MotorcycleCatalog) resulting in /api/Review/GetById/1 and 
+2024-05-27 23:49:54.525 +03:00 [DBG] Link generation succeeded for endpoints ["DigitalLibrary.Controllers.ReviewController.GetById (MotorcycleCatalog)"] with result /api/Review/GetById/1
+2024-05-27 23:49:54.532 +03:00 [INF] Executed action DigitalLibrary.Controllers.ReviewController.Create (MotorcycleCatalog) in 219.7953ms
+2024-05-27 23:49:54.536 +03:00 [INF] Executed endpoint 'DigitalLibrary.Controllers.ReviewController.Create (MotorcycleCatalog)'
+2024-05-27 23:49:54.537 +03:00 [DBG] 'ApplicationDbContext' disposed.
+2024-05-27 23:49:54.540 +03:00 [DBG] Disposing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:49:54.541 +03:00 [DBG] Disposed connection to database '' on server '' (1ms).
+2024-05-27 23:49:54.543 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7288/api/Review/Create/1,1 - 201 122 application/json; charset=utf-8 270.2359ms
+2024-05-27 23:50:05.503 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7288/api/Review/GetAll - null null
+2024-05-27 23:50:05.509 +03:00 [DBG] 1 candidate(s) found for the request path '/api/Review/GetAll'
+2024-05-27 23:50:05.510 +03:00 [DBG] Endpoint 'DigitalLibrary.Controllers.ReviewController.GetAll (MotorcycleCatalog)' with route pattern 'api/Review/GetAll' is valid for the request path '/api/Review/GetAll'
+2024-05-27 23:50:05.516 +03:00 [DBG] Request matched endpoint 'DigitalLibrary.Controllers.ReviewController.GetAll (MotorcycleCatalog)'
+2024-05-27 23:50:05.517 +03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-05-27 23:50:05.519 +03:00 [DBG] Successfully validated the token.
+2024-05-27 23:50:05.520 +03:00 [DBG] AuthenticationScheme: Bearer was successfully authenticated.
+2024-05-27 23:50:05.521 +03:00 [DBG] Authorization was successful.
+2024-05-27 23:50:05.522 +03:00 [INF] Executing endpoint 'DigitalLibrary.Controllers.ReviewController.GetAll (MotorcycleCatalog)'
+2024-05-27 23:50:05.527 +03:00 [INF] Route matched with {action = "GetAll", controller = "Review"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller DigitalLibrary.Controllers.ReviewController (MotorcycleCatalog).
+2024-05-27 23:50:05.529 +03:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-05-27 23:50:05.534 +03:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-05-27 23:50:05.537 +03:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-05-27 23:50:05.539 +03:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-05-27 23:50:05.541 +03:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-05-27 23:50:05.543 +03:00 [DBG] Executing controller factory for controller DigitalLibrary.Controllers.ReviewController (MotorcycleCatalog)
+2024-05-27 23:50:05.548 +03:00 [DBG] Executed controller factory for controller DigitalLibrary.Controllers.ReviewController (MotorcycleCatalog)
+2024-05-27 23:50:05.552 +03:00 [DBG] Entity Framework Core 8.0.5 initialized 'ApplicationDbContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.5' with options: None
+2024-05-27 23:50:05.555 +03:00 [DBG] Compiling query expression: 
+'DbSet<Review>()'
+2024-05-27 23:50:05.559 +03:00 [DBG] Generated query execution expression: 
+'queryContext => new SingleQueryingEnumerable<Review>(
+    (RelationalQueryContext)queryContext, 
+    RelationalCommandCache.QueryExpression(
+        Projection Mapping:
+            EmptyProjectionMember -> Dictionary<IProperty, int> { [Property: Review.ReviewId (int) Required PK AfterSave:Throw ValueGenerated.OnAdd, 0], [Property: Review.MotorcycleId (int) Required FK Index, 1], [Property: Review.Rating (int) Required, 2], [Property: Review.ReviewDate (DateTime) Required, 3], [Property: Review.ReviewText (string) Required, 4], [Property: Review.UserId (int) Required FK Index, 5] }
+        SELECT r.ReviewId, r.MotorcycleId, r.Rating, r.ReviewDate, r.ReviewText, r.UserId
+        FROM Reviews AS r), 
+    null, 
+    Func<QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator, Review>, 
+    MotorcycleCatalog.Data.ApplicationDbContext, 
+    False, 
+    False, 
+    True
+)'
+2024-05-27 23:50:05.563 +03:00 [DBG] Creating DbConnection.
+2024-05-27 23:50:05.565 +03:00 [DBG] Created DbConnection. (1ms).
+2024-05-27 23:50:05.567 +03:00 [DBG] Opening connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:50:05.568 +03:00 [DBG] Opened connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:50:05.570 +03:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-05-27 23:50:05.571 +03:00 [DBG] Created DbCommand for 'ExecuteReader' (1ms).
+2024-05-27 23:50:05.572 +03:00 [DBG] Initialized DbCommand for 'ExecuteReader' (2ms).
+2024-05-27 23:50:05.574 +03:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[ReviewId], [r].[MotorcycleId], [r].[Rating], [r].[ReviewDate], [r].[ReviewText], [r].[UserId]
+FROM [Reviews] AS [r]
+2024-05-27 23:50:05.579 +03:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[ReviewId], [r].[MotorcycleId], [r].[Rating], [r].[ReviewDate], [r].[ReviewText], [r].[UserId]
+FROM [Reviews] AS [r]
+2024-05-27 23:50:05.588 +03:00 [DBG] Context 'ApplicationDbContext' started tracking 'Review' entity. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see key values.
+2024-05-27 23:50:05.590 +03:00 [DBG] Closing data reader to 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:50:05.591 +03:00 [DBG] A data reader for 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' is being disposed after spending 2ms reading results.
+2024-05-27 23:50:05.592 +03:00 [DBG] Closing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:50:05.594 +03:00 [DBG] Closed connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB' (1ms).
+2024-05-27 23:50:05.596 +03:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter"]
+2024-05-27 23:50:05.599 +03:00 [DBG] No information found on request to perform content negotiation.
+2024-05-27 23:50:05.600 +03:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-05-27 23:50:05.601 +03:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-05-27 23:50:05.601 +03:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-05-27 23:50:05.603 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Linq.Enumerable+SelectListIterator`2[[MotorcycleCatalog.Models.Review, MotorcycleCatalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[MotorcycleCatalog.DTOs.ReviewDTOs.ReviewDTO, MotorcycleCatalog, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-27 23:50:05.605 +03:00 [INF] Executed action DigitalLibrary.Controllers.ReviewController.GetAll (MotorcycleCatalog) in 62.6912ms
+2024-05-27 23:50:05.607 +03:00 [INF] Executed endpoint 'DigitalLibrary.Controllers.ReviewController.GetAll (MotorcycleCatalog)'
+2024-05-27 23:50:05.608 +03:00 [DBG] 'ApplicationDbContext' disposed.
+2024-05-27 23:50:05.609 +03:00 [DBG] Disposing connection to database 'MotorcycleCatalogProjectDB' on server '(LocalDb)\MSSQLLocalDB'.
+2024-05-27 23:50:05.610 +03:00 [DBG] Disposed connection to database '' on server '' (1ms).
+2024-05-27 23:50:05.611 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7288/api/Review/GetAll - 200 123 application/json; charset=utf-8 108.1187ms
